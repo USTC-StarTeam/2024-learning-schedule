@@ -2,7 +2,7 @@
 
 ## 课程资源
 
-#### 李宏毅机器学习（强推）
+### 李宏毅机器学习（强推）
 
 <u>**[李宏毅2021/2022春机器学习课程](https://www.bilibili.com/video/BV1Wv411h7kN/?spm_id_from=333.337.search-card.all.click)**</u>
 
@@ -26,13 +26,13 @@ Github：https://github.com/Fafa-DL/Lhy_Machine_Learning
 
 ------
 
-#### Hugging Face的NLP课程
+### Hugging Face的NLP课程
 
 <u>**[NLP课程](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)**</u>
 
 ------
 
-#### Stanford CV课程
+### Stanford CV课程
 
 <u>**[Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)**</u>
 

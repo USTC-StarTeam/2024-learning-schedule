@@ -37,33 +37,63 @@
 14. [U-Net_Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 15. [Swin Transformer_Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
 
-## NLP
+生成模型
+
+
+
+##  NLP 
+
 > 自然语言处理领域的经典论文
 
-
 **Survey**
+
 1. [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842)
 2. [Model-tuning Via Prompts Makes NLP Models Adversarially Robust](https://arxiv.org/abs/2303.07320)
 3. [A Survey on In-context Learning](https://arxiv.org/abs/2301.00234)
 
 **Paper**
 
-1. [RNN_A Critical Review of Recurrent Neural Networks for Sequence Learning](https://arxiv.org/abs/1506.00019)
-2. [BERT_Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
-3. [CNN_Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
-4. [GloVe_Global Vectors for Word Representation](https://www-nlp.stanford.edu/pubs/glove.pdf)
-5. [GPT_Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
-6. [GPT2_Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
-7. [Seq2Seq_Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
-8. [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122)
-9. [Transformer_Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-10. [Word2Vec_Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
+传统自然语言处理
+
+1. [Word2Vec_Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
+2. [CNN_Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
+3. [RNN_A Critical Review of Recurrent Neural Networks for Sequence Learning](https://arxiv.org/abs/1506.00019)
+4. [Seq2Seq_Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
+5. [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122)
+6. [GloVe_Global Vectors for Word Representation](https://www-nlp.stanford.edu/pubs/glove.pdf)
+
+大模型（LLM）
+
+1. [Transformer_Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+2. [GPT_Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+3. [GPT2_Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+4. [GPT3_Language Models are Few-Shot Learners]([2005.14165 (arxiv.org)](https://arxiv.org/pdf/2005.14165))
+5. [GPT3.5_Training language models to follow instructions with human feedback]([2203.02155 (arxiv.org)](https://arxiv.org/pdf/2203.02155))
+6. [GPT-4 Technical Report]([2303.08774 (arxiv.org)](https://arxiv.org/pdf/2303.08774))
+7. [BERT_Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+
+大模型微调
+
+1. [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODEL](https://arxiv.org/pdf/2106.09685)
+2. 
+3. [The Power of Scale for Parameter-Efficient Prompt Tuning]([[2104.08691\] The Power of Scale for Parameter-Efficient Prompt Tuning (arxiv.org)](https://arxiv.org/abs/2104.08691))
+4. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models]([2201.11903 (arxiv.org)](https://arxiv.org/pdf/2201.11903))
+
+多模态（Multi-model Language Modal）
+
+1. [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/assets/palm-e.pdf)
+2. [Visual Instruction Tuning]([2304.08485 (arxiv.org)](https://arxiv.org/pdf/2304.08485))
+3. [TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation]([TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation (arxiv.org)](https://arxiv.org/pdf/2305.00447))
+4. [LLaRA: Aligning Large Language Models with Sequential Recommenders](https://arxiv.org/pdf/2312.02445v2)
+
+
 
 ## RS
+
 > 推荐系统领域的经典论文
 
-
 **Survey**
+
 1. [A Survey on User Behavior Modeling in Recommender Systems](https://arxiv.org/abs/2302.11087)
 2. [Disentangled Representation Learning](https://arxiv.org/abs/2211.11695)
 3. [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)
@@ -87,3 +117,8 @@
 13. [Multi-behavior Self-supervised Learning for Recommendation](https://arxiv.org/abs/2305.18238)
 14. [Multi-Scenario Ranking with Adaptive Feature Learning](https://arxiv.org/abs/2306.16732)
 15. [Towards Multi-Interest Pre-training with Sparse Capsule Network](https://dl.acm.org/doi/abs/10.1145/3539618.3591778)
+
+
+
+## Re
+
