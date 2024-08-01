@@ -5,11 +5,11 @@
 ## 学习任务
 
 🔥🔥🔥 **基础知识**  
-**[Course](./course)** | **[Book](https://ustc-graph.yuque.com/lku4s3/gegcsw/imx46gahz6vsc4bh)**
+**[Course](./course)** | **[Book](./book)**
 
-基础知识的学习包括两部分：网课和书籍，优先学习基础知识的学习包括两部分：网课和书籍。上述课程链接为 [李宏毅2021/2022春机器学习课程](https://www.bilibili.com/video/BV1Wv411h7kN/?spm_id_from=333.337.search-card.all.click)，书籍链接为一些机器学习相关的电子版书籍，存储在[飞书]()中，同时我们也购买了多本纸质书籍以供借阅。:sparkles:  
+基础知识的学习包括两部分：网课和书籍，优先学习基础知识的学习包括两部分：网课和书籍。上述课程链接为 [李宏毅2021/2022春机器学习课程](https://www.bilibili.com/video/BV1Wv411h7kN/?spm_id_from=333.337.search-card.all.click)，书籍链接为一些机器学习相关的电子版书籍，存储在[github](./book)中，同时我们也购买了多本纸质书籍以供借阅。:sparkles:  
 
-优先学习李宏毅机器学习课程和 MLAPP 两本书籍。大家也可根据自身需要学习其他课程和书籍。
+优先学习李宏毅机器学习课程和 MLAPP (第二版)两本书籍。大家也可根据自身需要学习其他课程和书籍。
 
 **任务安排参考如下**：每周学习一节课程、每周阅读一章书籍。 :star2:
 
